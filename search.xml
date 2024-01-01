@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>白嫖免费顶级域名！eu.org注册详解！</title>
+      <link href="/%E7%99%BD%E5%AB%96%E5%85%8D%E8%B4%B9%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D%EF%BC%81eu-org%E6%B3%A8%E5%86%8C%E8%AF%A6%E8%A7%A3%EF%BC%81/"/>
+      <url>/%E7%99%BD%E5%AB%96%E5%85%8D%E8%B4%B9%E9%A1%B6%E7%BA%A7%E5%9F%9F%E5%90%8D%EF%BC%81eu-org%E6%B3%A8%E5%86%8C%E8%AF%A6%E8%A7%A3%EF%BC%81/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://wp.gxnas.com/12752.html">参考</a><br>耗啸锡！耗啸锡！你是否在愁找不到便宜的域名？你是否还在用三级域名苟延残喘？快来拨打抢购热线：400-1919-810，现在只送…啊不好意思串台了，本篇教程将会手把手教你注册免费<strong>顶级</strong>域名！</p><p>首先请出今天的主角：<a href="http://eu.org">eu.org</a>。</p><blockquote><p><a href="http://EU.org">EU.org</a>, free domain names since 1996<br>“Companies have voted with their feet [on the issue of domains], they want to have domain names that are international or at least country neutral. The same freedom should apply to individuals; all individuals should be able to have and own their own domain names”.<br>Paul Mockapetris, creator of the DNS, in On the Internet, September/October 1996.<br><a href="http://EU.org">EU.org</a> signed and invites you to sign the petition at <a href="http://savedotorg.org">savedotorg.org</a> against the sale of the .ORG registry to a private fund</p></blockquote><p>可以看出，eu.org创建的目的是“all individuals should be able to have and own their own domain names”，而我们刚好就是奔着domain来的，那么废话不多说，马上开始我们的注册吧！<br>首先打开<a href="https://nic.eu.org/">官方网站</a>，找到Sign-in or sign-up here,点进去后再点register，就会来到个人信息填写页面。这里我们只需要注意E-mail和下面的password，其他乱填就行。<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="DingZhenContactCreation.png" alt="1，5！"><br>注册完后就会提示你验证邮箱，这里需要记住你的账号，如DZ114-FREE。<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="mail.png" alt="收到邮件后验证"><br>验证后回到登录界面输入账号和你设置的密码，来到Domains，点击<a href="https://nic.eu.org/arf/en/domain/new/">New Domain</a>，在Complete domain name中输入你想要的域名（需要输全），在Name servers中配置域名解析，Check for correctness of选择server names，在下面输入服务器地址（我这里使用<a href="https://www.cloudflare-cn.com/">Cloudflare</a>）<br><img src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="Newdomainrequest.png" alt="如图"><br>配置完后点击submit，会执行检查</p><figure class="highlight text"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">---- Servers and domain names check</span><br><span class="line"></span><br><span class="line">Getting IP for xxx.CLOUDFLARE.COM: xxx</span><br><span class="line">Getting IP for xxx.CLOUDFLARE.COM: xxx</span><br><span class="line">Getting IP for xxx.CLOUDFLARE.COM: xxx</span><br><span class="line">Getting IP for xxx.CLOUDFLARE.COM: xxx</span><br><span class="line"></span><br><span class="line"></span><br><span class="line">No error, storing for validation...</span><br><span class="line">Saved as request xxx</span><br><span class="line"></span><br><span class="line">Done</span><br></pre></td></tr></table></figure><p>输出如下时就代表提交好了！耐心等待审核即可。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 正经向 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello hexo&amp;butterfly!</title>
+      <link href="/Hello-hexo-butterfly/"/>
+      <url>/Hello-hexo-butterfly/</url>
+      
+        <content type="html"><![CDATA[<h1>Hello!</h1><p>Hexo and Butterfly!<br>And the blog world!</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 梦开始的地方 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p>废物一只，学习c++中，热爱搞机，xxs，爱摆烂…</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>archives</title>
+      <link href="/archives/index.html"/>
+      <url>/archives/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
