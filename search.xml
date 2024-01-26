@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>解决Android studio中gradle配置问题</title>
+      <link href="/%E8%A7%A3%E5%86%B3Android-studio%E4%B8%ADgradle%E9%85%8D%E7%BD%AE%E9%97%AE%E9%A2%98/"/>
+      <url>/%E8%A7%A3%E5%86%B3Android-studio%E4%B8%ADgradle%E9%85%8D%E7%BD%AE%E9%97%AE%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<ol><li><p>在 gradle-wrapper.properties 中将 distributionUrl 改为疼逊镜像（自行将8.2修改为当前版本）：<br><code>distributionUrl=https\://mirrors.cloud.tencent.com/gradle/gradle-8.2-all.zip</code></p></li><li><p>如果不行，可尝试在 settings.gradle.kts 中 repositories 内添加阿里镜像（魔法对冲）：</p></li></ol><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">...</span><br><span class="line"></span><br><span class="line">pluginManagement &#123;</span><br><span class="line">    repositories &#123;</span><br><span class="line">        maven &#123; url = uri(&quot;https://maven.aliyun.com/repository/public&quot;)&#125;</span><br><span class="line">        google()</span><br><span class="line">        mavenCentral()</span><br><span class="line">        gradlePluginPortal()</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line">...</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HelloWarning</title>
       <link href="/HelloWarning/"/>
       <url>/HelloWarning/</url>
@@ -80,9 +93,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -91,9 +104,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
